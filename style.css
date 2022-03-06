@@ -1,0 +1,30 @@
+.body {
+    background-color:aqua;
+}
+#score
+{
+    font-size: 50px;
+    margin-left: 100px;
+}
+
+#time {
+    font-size: 50px;
+    float:right;
+    margin-right: 250px;
+}
+
+#sketch
+{
+    color:red;
+    font-size: 30px;
+}
+
+#yourSketch
+{
+    font-size: 30px;
+}
+
+#confidence
+{
+    font-size: 30px;
+}
